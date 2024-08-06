@@ -49,7 +49,7 @@ rich = "^13.4.2"
 six = "^1.16.0"
 tokentrim = "^0.1.13"
 wget = "^3.2"
-psutil = "^5.9.6"
+psutil = "6.0.0"
 pyreadline3 = {version = "^3.4.1", markers = "sys_platform == 'win32'"}
 html2image = "^2.0.4.3"
 send2trash = "^1.8.2"
